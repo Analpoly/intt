@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252630645661",
+    "project_id": "fahmi-42d87",
+    "storage_bucket": "fahmi-42d87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252630645661:android:535ee00c1dd3fc0edd8d74",
+        "android_client_info": {
+          "package_name": "com.example.intt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQCKeQsm9mKDRBQHObqh62ZERXR1VjCV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
